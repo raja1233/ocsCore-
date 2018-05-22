@@ -1,0 +1,9 @@
+D:\.net Core\OCS\OCS.ViewModelLayer\bin\Debug\netcoreapp2.0\OCS.ViewModelLayer.deps.json
+D:\.net Core\OCS\OCS.ViewModelLayer\bin\Debug\netcoreapp2.0\OCS.ViewModelLayer.dll
+D:\.net Core\OCS\OCS.ViewModelLayer\bin\Debug\netcoreapp2.0\OCS.ViewModelLayer.pdb
+D:\.net Core\OCS\OCS.ViewModelLayer\obj\Debug\netcoreapp2.0\OCS.ViewModelLayer.csproj.CoreCompileInputs.cache
+D:\.net Core\OCS\OCS.ViewModelLayer\obj\Debug\netcoreapp2.0\OCS.ViewModelLayer.AssemblyInfoInputs.cache
+D:\.net Core\OCS\OCS.ViewModelLayer\obj\Debug\netcoreapp2.0\OCS.ViewModelLayer.AssemblyInfo.cs
+D:\.net Core\OCS\OCS.ViewModelLayer\obj\Debug\netcoreapp2.0\OCS.ViewModelLayer.dll
+D:\.net Core\OCS\OCS.ViewModelLayer\obj\Debug\netcoreapp2.0\OCS.ViewModelLayer.pdb
+D:\.net Core\OCS\OCS.ViewModelLayer\obj\Debug\netcoreapp2.0\OCS.ViewModelLayer.csprojAssemblyReference.cache

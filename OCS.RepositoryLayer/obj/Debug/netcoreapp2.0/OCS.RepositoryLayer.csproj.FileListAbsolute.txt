@@ -1,0 +1,16 @@
+D:\.net Core\OCS\OCS.RepositoryLayer\bin\Debug\netcoreapp2.0\OCS.RepositoryLayer.deps.json
+D:\.net Core\OCS\OCS.RepositoryLayer\bin\Debug\netcoreapp2.0\OCS.RepositoryLayer.dll
+D:\.net Core\OCS\OCS.RepositoryLayer\bin\Debug\netcoreapp2.0\OCS.RepositoryLayer.pdb
+D:\.net Core\OCS\OCS.RepositoryLayer\bin\Debug\netcoreapp2.0\OCS.CommonLayer.dll
+D:\.net Core\OCS\OCS.RepositoryLayer\bin\Debug\netcoreapp2.0\OCS.DataAccessLayer.dll
+D:\.net Core\OCS\OCS.RepositoryLayer\bin\Debug\netcoreapp2.0\OCS.ViewModelLayer.dll
+D:\.net Core\OCS\OCS.RepositoryLayer\bin\Debug\netcoreapp2.0\OCS.CommonLayer.pdb
+D:\.net Core\OCS\OCS.RepositoryLayer\bin\Debug\netcoreapp2.0\OCS.DataAccessLayer.pdb
+D:\.net Core\OCS\OCS.RepositoryLayer\bin\Debug\netcoreapp2.0\OCS.ViewModelLayer.pdb
+D:\.net Core\OCS\OCS.RepositoryLayer\obj\Debug\netcoreapp2.0\OCS.RepositoryLayer.csprojAssemblyReference.cache
+D:\.net Core\OCS\OCS.RepositoryLayer\obj\Debug\netcoreapp2.0\OCS.RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\.net Core\OCS\OCS.RepositoryLayer\obj\Debug\netcoreapp2.0\OCS.RepositoryLayer.AssemblyInfoInputs.cache
+D:\.net Core\OCS\OCS.RepositoryLayer\obj\Debug\netcoreapp2.0\OCS.RepositoryLayer.AssemblyInfo.cs
+D:\.net Core\OCS\OCS.RepositoryLayer\obj\Debug\netcoreapp2.0\OCS.RepositoryLayer.csproj.CopyComplete
+D:\.net Core\OCS\OCS.RepositoryLayer\obj\Debug\netcoreapp2.0\OCS.RepositoryLayer.dll
+D:\.net Core\OCS\OCS.RepositoryLayer\obj\Debug\netcoreapp2.0\OCS.RepositoryLayer.pdb

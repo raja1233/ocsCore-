@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="6.2.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OCS.CommonLayer\OCS.CommonLayer.csproj" />
+    <ProjectReference Include="..\OCS.DataAccessLayer\OCS.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\OCS.RepositoryLayer\OCS.RepositoryLayer.csproj" />
+  </ItemGroup>
+
+</Project>

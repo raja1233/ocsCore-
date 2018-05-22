@@ -1,0 +1,14 @@
+D:\.net Core\OCS\OCS.CommonLayer\bin\Debug\netcoreapp2.0\OCS.CommonLayer.deps.json
+D:\.net Core\OCS\OCS.CommonLayer\bin\Debug\netcoreapp2.0\OCS.CommonLayer.dll
+D:\.net Core\OCS\OCS.CommonLayer\bin\Debug\netcoreapp2.0\OCS.CommonLayer.pdb
+D:\.net Core\OCS\OCS.CommonLayer\bin\Debug\netcoreapp2.0\OCS.DataAccessLayer.dll
+D:\.net Core\OCS\OCS.CommonLayer\bin\Debug\netcoreapp2.0\OCS.ViewModelLayer.dll
+D:\.net Core\OCS\OCS.CommonLayer\bin\Debug\netcoreapp2.0\OCS.DataAccessLayer.pdb
+D:\.net Core\OCS\OCS.CommonLayer\bin\Debug\netcoreapp2.0\OCS.ViewModelLayer.pdb
+D:\.net Core\OCS\OCS.CommonLayer\obj\Debug\netcoreapp2.0\OCS.CommonLayer.csproj.CoreCompileInputs.cache
+D:\.net Core\OCS\OCS.CommonLayer\obj\Debug\netcoreapp2.0\OCS.CommonLayer.AssemblyInfoInputs.cache
+D:\.net Core\OCS\OCS.CommonLayer\obj\Debug\netcoreapp2.0\OCS.CommonLayer.AssemblyInfo.cs
+D:\.net Core\OCS\OCS.CommonLayer\obj\Debug\netcoreapp2.0\OCS.CommonLayer.csproj.CopyComplete
+D:\.net Core\OCS\OCS.CommonLayer\obj\Debug\netcoreapp2.0\OCS.CommonLayer.dll
+D:\.net Core\OCS\OCS.CommonLayer\obj\Debug\netcoreapp2.0\OCS.CommonLayer.pdb
+D:\.net Core\OCS\OCS.CommonLayer\obj\Debug\netcoreapp2.0\OCS.CommonLayer.csprojAssemblyReference.cache
